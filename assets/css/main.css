@@ -2878,3 +2878,7 @@ body.is-menu-visible #menu {
   .wrapper .product-images {
     max-width: 100%;
   }
+
+  .logo img {
+    height: 100%;
+  }
